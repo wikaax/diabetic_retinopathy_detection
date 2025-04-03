@@ -1,0 +1,3 @@
+[submodule "external/RETFound_MAE"]
+	path = external/RETFound_MAE
+	url = https://github.com/rmaphoh/RETFound_MAE.git
