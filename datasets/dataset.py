@@ -4,7 +4,9 @@ import torchvision.transforms as transforms
 from PIL import Image
 import pandas as pd
 import os
+from PIL import Image, ImageFile
 
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 class RetinopathyDataset(Dataset):
     def __init__(self, csv_file, root_dir, transform=None):
@@ -32,7 +34,12 @@ class RetinopathyDataset(Dataset):
         img_name_from_csv = row['image'].lower()
         img_path = os.path.join(self.root_dir, img_name_from_csv + ".jpeg")
 
-        image = Image.open(img_path).convert("RGB")
+        try:
+            image = Image.open(img_path).convert("RGB")
+        except OSError:
+            print(f"Uwaga: Nie można otworzyć obrazu {img_path}. Pomijam...")
+            return None, None  # Zwróć None dla tego obrazu, aby go pominąć
+
         label = row['level']
 
         if self.transform:
@@ -53,9 +60,7 @@ root_dir = os.path.join('data', 'train')
 
 train_dataset = RetinopathyDataset(csv_file=csv_path, root_dir=root_dir, transform=transform)
 
-
 def collate_fn(batch):
-    # filter none from batch
     batch = [item for item in batch if item[0] is not None]
 
     if len(batch) == 0:
