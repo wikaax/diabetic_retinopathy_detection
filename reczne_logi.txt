@@ -1,0 +1,283 @@
+---1 EPOKA---
+[17:25:39.370993] val:  [ 0/33]  eta: 0:39:50  loss: 1.2122 (1.2122)  time: 72.4314  data: 69.5388  max mem: 6810
+[17:26:00.224406] val:  [10/33]  eta: 0:03:15  loss: 1.1993 (1.2001)  time: 8.4803  data: 6.3219  max mem: 6810
+[17:26:21.242749] val:  [20/33]  eta: 0:01:10  loss: 1.2011 (1.3124)  time: 2.0935  data: 0.0002  max mem: 6810
+[17:26:43.479829] val:  [30/33]  eta: 0:00:13  loss: 1.3998 (1.3920)  time: 2.1627  data: 0.0004  max mem: 6810
+[17:26:46.149745] val:  [32/33]  enta: 0:00:04  loss: 1.4026 (1.4219)  time: 2.0858  data: 0.0005  max mem: 6810
+[17:26:48.438198] val: Total time: 0:02:21 (4.2879 s / it)
+[17:26:48.676705] val loss: 1.4219434333570076
+[17:26:48.677805] Accuracy: 0.4922, F1 Score: 0.1319, ROC AUC: 0.6322, Hamming Loss: 0.2031,
+ Jaccard Score: 0.0984, Precision: 0.0984, Recall: 0.2000,
+ Average Precision: 0.2807, Kappa: 0.0000, Score: 0.2547
+[17:26:49.714259] Best epoch = 0, Best score = 0.2547
+
+---2 EPOKA---
+[17:56:08.965886] val:  [ 0/33]  eta: 0:37:19  loss: 0.7388 (0.7388)  time: 67.8670  data: 65.2747  max mem: 6810
+[17:56:33.550804] val:  [10/33]  eta: 0:03:13  loss: 0.7383 (0.7368)  time: 8.4046  data: 5.9341  max mem: 6810
+[17:56:58.173641] val:  [20/33]  eta: 0:01:12  loss: 0.7442 (0.9717)  time: 2.4603  data: 0.0002  max mem: 6810
+[17:57:22.806539] val:  [30/33]  eta: 0:00:13  loss: 1.2017 (1.1654)  time: 2.4627  data: 0.0002  max mem: 6810
+[17:57:25.467123] val:  [32/33]  eta: 0:00:04  loss: 1.2062 (1.2335)  time: 2.3480  data: 0.0002  max mem: 6810
+[17:57:27.296729] val: Total time: 0:02:26 (4.4302 s / it)
+[17:57:27.355111] val loss: 1.233493689334754
+[17:57:27.355111] Accuracy: 0.4922, F1 Score: 0.1319, ROC AUC: 0.7817, Hamming Loss: 0.2031,
+ Jaccard Score: 0.0984, Precision: 0.0984, Recall: 0.2000,
+ Average Precision: 0.3635, Kappa: 0.0000, Score: 0.3046
+[17:57:28.301311] Best epoch = 1, Best score = 0.3046
+
+---3 EPOKA---
+[18:24:00.121360] val:  [ 0/33]  eta: 0:37:25  loss: 0.2397 (0.2397)  time: 68.0525  data: 65.6657  max mem: 6810
+[18:24:22.792490] val:  [10/33]  eta: 0:03:09  loss: 0.4760 (0.4395)  time: 8.2475  data: 5.9701  max mem: 6810
+[18:24:45.452242] val:  [20/33]  eta: 0:01:10  loss: 0.5081 (0.6639)  time: 2.2664  data: 0.0003  max mem: 6810
+[18:25:08.131512] val:  [30/33]  eta: 0:00:13  loss: 0.9690 (0.8793)  time: 2.2668  data: 0.0001  max mem: 6810
+[18:25:10.577887] val:  [32/33]  eta: 0:00:04  loss: 1.0017 (0.9554)  time: 2.1628  data: 0.0001  max mem: 6810
+[18:25:12.406376] val: Total time: 0:02:20 (4.2527 s / it)
+[18:25:12.442918] val loss: 0.9553505868622751
+[18:25:12.443423] Accuracy: 0.6518, F1 Score: 0.2937, ROC AUC: 0.8022, Hamming Loss: 0.1393,
+ Jaccard Score: 0.2389, Precision: 0.2766, Recall: 0.3490,
+ Average Precision: 0.3794, Kappa: 0.4518, Score: 0.5159
+[18:25:13.340378] Best epoch = 2, Best score = 0.5159
+
+---4 EPOKA---
+[18:51:47.428651] val:  [ 0/33]  eta: 0:40:33  loss: 0.1239 (0.1239)  time: 73.7364  data: 71.1858  max mem: 6810
+[18:52:12.180887] val:  [10/33]  eta: 0:03:25  loss: 0.3547 (0.3760)  time: 8.9534  data: 6.4719  max mem: 6810
+[18:52:36.913428] val:  [20/33]  eta: 0:01:16  loss: 0.3672 (0.6242)  time: 2.4741  data: 0.0003  max mem: 6810
+[18:53:01.013866] val:  [30/33]  eta: 0:00:14  loss: 0.9052 (0.8365)  time: 2.4415  data: 0.0001  max mem: 6810
+[18:53:03.614717] val:  [32/33]  eta: 0:00:04  loss: 0.9103 (0.9125)  time: 2.3126  data: 0.0001  max mem: 6810
+[18:53:05.780839] val: Total time: 0:02:32 (4.6088 s / it)
+[18:53:05.835376] val loss: 0.9125266508622603
+[18:53:05.836888] Accuracy: 0.6751, F1 Score: 0.3030, ROC AUC: 0.8152, Hamming Loss: 0.1300,
+ Jaccard Score: 0.2517, Precision: 0.2817, Recall: 0.3592,
+ Average Precision: 0.4122, Kappa: 0.4851, Score: 0.5344
+[18:53:06.823729] Best epoch = 3, Best score = 0.5344
+
+---5 EPOKA---
+[19:21:26.778665] val:  [ 0/33]  eta: 0:38:49  loss: 0.0957 (0.0957)  time: 70.5774  data: 68.6333  max mem: 6810
+[19:21:45.134617] val:  [10/33]  eta: 0:03:05  loss: 0.2049 (0.2450)  time: 8.0847  data: 6.2394  max mem: 6810
+[19:22:04.142326] val:  [20/33]  eta: 0:01:06  loss: 0.2682 (0.5338)  time: 1.8681  data: 0.0001  max mem: 6810
+[19:22:21.640952] val:  [30/33]  eta: 0:00:12  loss: 0.8840 (0.7611)  time: 1.8252  data: 0.0002  max mem: 6810
+[19:22:23.428635] val:  [32/33]  eta: 0:00:03  loss: 0.8920 (0.8285)  time: 1.7315  data: 0.0002  max mem: 6810
+[19:22:25.402170] val: Total time: 0:02:09 (3.9152 s / it)
+[19:22:25.456374] val loss: 0.8285179138183594
+[19:22:25.457945] Accuracy: 0.7198, F1 Score: 0.3200, ROC AUC: 0.8437, Hamming Loss: 0.1121,
+ Jaccard Score: 0.2755, Precision: 0.2893, Recall: 0.3774,
+ Average Precision: 0.4587, Kappa: 0.5477, Score: 0.5705
+
+
+---TEST---
+[19:22:28.407761] Test with the best model, epoch = 4:
+[19:23:50.984749] test:  [ 0/69]  eta: 1:34:56  loss: 0.1383 (0.1383)  time: 82.5607  data: 80.7688  max mem: 6810
+[19:24:07.996326] test:  [10/69]  eta: 0:08:54  loss: 0.2485 (0.2650)  time: 9.0514  data: 7.3443  max mem: 6810
+[19:24:24.915525] test:  [20/69]  eta: 0:04:31  loss: 0.2485 (0.2775)  time: 1.6961  data: 0.0013  max mem: 6810
+[19:24:41.814238] test:  [30/69]  eta: 0:02:47  loss: 0.2326 (0.2610)  time: 1.6908  data: 0.0004  max mem: 6810
+[19:24:58.495723] test:  [40/69]  eta: 0:01:46  loss: 0.2960 (0.5167)  time: 1.6790  data: 0.0000  max mem: 6810
+[19:25:14.967285] test:  [50/69]  eta: 0:01:02  loss: 0.8686 (0.5688)  time: 1.6576  data: 0.0001  max mem: 6810
+[19:25:31.429336] test:  [60/69]  eta: 0:00:26  loss: 0.6904 (0.6311)  time: 1.6466  data: 0.0001  max mem: 6810
+[19:25:43.866668] test:  [68/69]  eta: 0:00:02  loss: 1.0298 (0.7999)  time: 1.6089  data: 0.0001  max mem: 6810
+[19:25:46.891572] test: Total time: 0:03:18 (2.8765 s / it)
+[19:25:46.946809] val loss: 0.7998703942782637
+[19:25:46.946809] Accuracy: 0.7136, F1 Score: 0.3180, ROC AUC: 0.8480, Hamming Loss: 0.1145,
+ Jaccard Score: 0.2728, Precision: 0.2899, Recall: 0.3754,
+ Average Precision: 0.4817, Kappa: 0.5401, Score: 0.5687
+
+
+
+
+ --- MEDVIT ---
+ Epoch: [0]  [   0/1666]  eta: 2 days, 12:45:20  lr: 0.000001  loss: 4.5886 (4.5886)  time: 131.2847  data: 46.9990  max mem: 6086
+Epoch: [0]  [  10/1666]  eta: 7:25:29  lr: 0.000001  loss: 4.6523 (4.6497)  time: 16.1407  data: 4.2731  max mem: 6435
+Epoch: [0]  [  20/1666]  eta: 4:54:54  lr: 0.000001  loss: 4.6529 (4.6552)  time: 4.7233  data: 0.0004  max mem: 6435
+Epoch: [0]  [  30/1666]  eta: 4:00:18  lr: 0.000001  loss: 4.6529 (4.6541)  time: 4.7828  data: 0.0004  max mem: 6435
+Epoch: [0]  [  40/1666]  eta: 3:29:40  lr: 0.000001  loss: 4.6430 (4.6526)  time: 4.5739  data: 0.0004  max mem: 6435
+Epoch: [0]  [  50/1666]  eta: 3:10:13  lr: 0.000001  loss: 4.6437 (4.6536)  time: 4.3493  data: 0.0002  max mem: 6435
+Epoch: [0]  [  60/1666]  eta: 2:56:49  lr: 0.000001  loss: 4.6386 (4.6491)  time: 4.2878  data: 0.0002  max mem: 6435
+Epoch: [0]  [  70/1666]  eta: 2:46:34  lr: 0.000001  loss: 4.6298 (4.6470)  time: 4.2223  data: 0.0002  max mem: 6435
+Epoch: [0]  [  80/1666]  eta: 2:38:44  lr: 0.000001  loss: 4.6298 (4.6449)  time: 4.1725  data: 0.0002  max mem: 6435
+Epoch: [0]  [  90/1666]  eta: 2:32:52  lr: 0.000001  loss: 4.6290 (4.6442)  time: 4.2482  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 100/1666]  eta: 2:28:19  lr: 0.000001  loss: 4.6282 (4.6422)  time: 4.3757  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 110/1666]  eta: 2:24:21  lr: 0.000001  loss: 4.6366 (4.6426)  time: 4.4158  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 120/1666]  eta: 2:21:02  lr: 0.000001  loss: 4.6322 (4.6409)  time: 4.4207  data: 0.0000  max mem: 6435
+Epoch: [0]  [ 130/1666]  eta: 2:17:53  lr: 0.000001  loss: 4.6322 (4.6408)  time: 4.3848  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 140/1666]  eta: 2:14:59  lr: 0.000001  loss: 4.6323 (4.6396)  time: 4.3032  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 150/1666]  eta: 2:12:03  lr: 0.000001  loss: 4.6233 (4.6383)  time: 4.1783  data: 0.0000  max mem: 6435
+Epoch: [0]  [ 160/1666]  eta: 2:09:24  lr: 0.000001  loss: 4.6172 (4.6372)  time: 4.0810  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 170/1666]  eta: 2:07:08  lr: 0.000001  loss: 4.6289 (4.6366)  time: 4.1404  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 180/1666]  eta: 2:05:22  lr: 0.000001  loss: 4.6193 (4.6355)  time: 4.3101  data: 0.0003  max mem: 6435
+Epoch: [0]  [ 190/1666]  eta: 2:03:39  lr: 0.000001  loss: 4.6193 (4.6350)  time: 4.4053  data: 0.0003  max mem: 6435
+Epoch: [0]  [ 200/1666]  eta: 2:02:08  lr: 0.000001  loss: 4.6216 (4.6338)  time: 4.4267  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 210/1666]  eta: 2:00:44  lr: 0.000001  loss: 4.6146 (4.6327)  time: 4.4846  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 220/1666]  eta: 1:58:57  lr: 0.000001  loss: 4.6146 (4.6307)  time: 4.3054  data: 0.0002  max mem: 6435
+Epoch: [0]  [ 230/1666]  eta: 1:57:21  lr: 0.000001  loss: 4.6160 (4.6304)  time: 4.1453  data: 0.0002  max mem: 6435
+Epoch: [0]  [ 240/1666]  eta: 1:56:00  lr: 0.000001  loss: 4.6160 (4.6297)  time: 4.2731  data: 0.0001  max mem: 6435
+Epoch: [0]  [ 250/1666]  eta: 1:54:34  lr: 0.000001  loss: 4.6054 (4.6288)  time: 4.2972  data: 0.0002  max mem: 6435
+Epoch: [0]  [ 260/1666]  eta: 1:53:18  lr: 0.000001  loss: 4.6014 (4.6272)  time: 4.2854  data: 0.0003  max mem: 6435
+Epoch: [0]  [ 270/1666]  eta: 1:52:00  lr: 0.000001  loss: 4.6094 (4.6272)  time: 4.2976  data: 0.0003  max mem: 6435
+Epoch: [0]  [ 280/1666]  eta: 1:50:44  lr: 0.000001  loss: 4.6147 (4.6264)  time: 4.2536  data: 0.0003  max mem: 6435
+Epoch: [0]  [ 290/1666]  eta: 1:49:26  lr: 0.000001  loss: 4.5831 (4.6243)  time: 4.2023  data: 0.0004  max mem: 6435
+
+RETFound 20 epok
+
+---1 EPOKA---
+[10:59:14.501954] val:  [ 0/33]  eta: 0:35:01  loss: 1.2121 (1.2121)  time: 63.6780  data: 61.5656  max mem: 6810
+[10:59:34.366850] val:  [10/33]  eta: 0:02:54  loss: 1.1993 (1.2001)  time: 7.5947  data: 5.5971  max mem: 6810
+[10:59:54.203225] val:  [20/33]  eta: 0:01:03  loss: 1.2011 (1.3124)  time: 1.9850  data: 0.0002  max mem: 6810
+[11:00:14.057773] val:  [30/33]  eta: 0:00:11  loss: 1.3998 (1.3920)  time: 1.9845  data: 0.0002  max mem: 6810
+[11:00:16.312370] val:  [32/33]  eta: 0:00:03  loss: 1.4026 (1.4219)  time: 1.8988  data: 0.0002  max mem: 6810
+[11:00:18.038534] val: Total time: 0:02:07 (3.8550 s / it)
+[11:00:18.218163] val loss: 1.4219471324573865
+[11:00:18.219641] Accuracy: 0.4922, F1 Score: 0.1319, ROC AUC: 0.6321, Hamming Loss: 0.2031,
+ Jaccard Score: 0.0984, Precision: 0.0984, Recall: 0.2000,
+ Average Precision: 0.2807, Kappa: 0.0000, Score: 0.2547
+
+---2 EPOKA---
+[11:25:28.097390] val:  [ 0/33]  eta: 0:37:57  loss: 0.7388 (0.7388)  time: 69.0152  data: 66.6718  max mem: 6810
+[11:25:50.428672] val:  [10/33]  eta: 0:03:10  loss: 0.7383 (0.7368)  time: 8.3041  data: 6.0612  max mem: 6810
+[11:26:12.704009] val:  [20/33]  eta: 0:01:10  loss: 0.7442 (0.9717)  time: 2.2303  data: 0.0001  max mem: 6810
+[11:26:35.006720] val:  [30/33]  eta: 0:00:13  loss: 1.2018 (1.1654)  time: 2.2289  data: 0.0001  max mem: 6810
+[11:26:37.426783] val:  [32/33]  eta: 0:00:04  loss: 1.2062 (1.2335)  time: 2.1289  data: 0.0002  max mem: 6810
+[11:26:39.264726] val: Total time: 0:02:20 (4.2479 s / it)
+[11:26:39.303335] val loss: 1.2334798177083333
+[11:26:39.304363] Accuracy: 0.4922, F1 Score: 0.1319, ROC AUC: 0.7817, Hamming Loss: 0.2031,
+ Jaccard Score: 0.0984, Precision: 0.0984, Recall: 0.2000,
+ Average Precision: 0.3635, Kappa: 0.0000, Score: 0.3046
+[11:26:40.345512] Best epoch = 1, Best score = 0.3046
+
+
+---3 EPOKA---
+[14:32:57.797221] val:  [ 0/33]  eta: 0:38:07  loss: 0.0958 (0.0958)  time: 69.3297  data: 66.9304  max mem: 6810
+[14:33:20.175319] val:  [10/33]  eta: 0:03:11  loss: 0.2051 (0.2451)  time: 8.3371  data: 6.0850  max mem: 6810
+[14:33:41.889642] val:  [20/33]  eta: 0:01:10  loss: 0.2684 (0.5338)  time: 2.2045  data: 0.0003  max mem: 6810
+[14:34:03.687196] val:  [30/33]  eta: 0:00:13  loss: 0.8836 (0.7610)  time: 2.1755  data: 0.0001  max mem: 6810
+[14:34:05.982487] val:  [32/33]  eta: 0:00:04  loss: 0.8916 (0.8285)  time: 2.0679  data: 0.0001  max mem: 6810
+[14:34:07.891670] val: Total time: 0:02:19 (4.2250 s / it)
+[14:34:07.948414] val loss: 0.828497771060828
+[14:34:07.948414] Accuracy: 0.7198, F1 Score: 0.3200, ROC AUC: 0.8439, Hamming Loss: 0.1121,
+ Jaccard Score: 0.2755, Precision: 0.2893, Recall: 0.3774,
+ Average Precision: 0.4592, Kappa: 0.5477, Score: 0.5705
+[14:34:09.057793] Best epoch = 4, Best score = 0.5705
+
+
+---4 EPOKA---
+[15:01:28.966375] val:  [ 0/33]  eta: 0:38:36  loss: 0.0388 (0.0388)  time: 70.1874  data: 68.2750  max mem: 6810
+[15:01:47.800490] val:  [10/33]  eta: 0:03:06  loss: 0.0589 (0.1289)  time: 8.0928  data: 6.2071  max mem: 6810
+[15:02:05.556061] val:  [20/33]  eta: 0:01:06  loss: 0.0973 (0.4554)  time: 1.8294  data: 0.0004  max mem: 6810
+[15:02:23.743315] val:  [30/33]  eta: 0:00:12  loss: 0.7594 (0.6912)  time: 1.7971  data: 0.0002  max mem: 6810
+[15:02:25.628080] val:  [32/33]  eta: 0:00:03  loss: 0.8012 (0.7717)  time: 1.7154  data: 0.0002  max mem: 6810
+[15:02:27.616987] val: Total time: 0:02:08 (3.9042 s / it)
+[15:02:27.738718] val loss: 0.771728024338231
+[15:02:27.738718] Accuracy: 0.7393, F1 Score: 0.3276, ROC AUC: 0.8699, Hamming Loss: 0.1043,
+ Jaccard Score: 0.2873, Precision: 0.2944, Recall: 0.3853,
+ Average Precision: 0.5111, Kappa: 0.5768, Score: 0.5914
+[15:02:28.860172] Best epoch = 5, Best score = 0.5914
+
+
+---5 EPOKA---
+[15:28:59.327852] val:  [ 0/33]  eta: 0:35:42  loss: 0.1101 (0.1101)  time: 64.9323  data: 63.2989  max mem: 6810
+[15:29:14.560779] val:  [10/33]  eta: 0:02:47  loss: 0.1782 (0.2181)  time: 7.2877  data: 5.7545  max mem: 6810
+[15:29:29.677317] val:  [20/33]  eta: 0:00:58  loss: 0.1965 (0.5076)  time: 1.5174  data: 0.0001  max mem: 6810
+[15:29:45.469065] val:  [30/33]  eta: 0:00:10  loss: 0.5110 (0.6701)  time: 1.5453  data: 0.0001  max mem: 6810
+[15:29:47.180813] val:  [32/33]  eta: 0:00:03  loss: 0.5887 (0.7537)  time: 1.4789  data: 0.0001  max mem: 6810
+[15:29:49.180188] val: Total time: 0:01:54 (3.4784 s / it)
+[15:29:49.314566] val loss: 0.7536774259625059
+[15:29:49.314566] Accuracy: 0.7354, F1 Score: 0.3276, ROC AUC: 0.8921, Hamming Loss: 0.1058,
+ Jaccard Score: 0.2872, Precision: 0.2977, Recall: 0.3869,
+ Average Precision: 0.5213, Kappa: 0.5746, Score: 0.5981
+[15:29:50.480271] Best epoch = 6, Best score = 0.5981
+
+
+---6 EPOKA---
+[15:55:36.393022] val:  [ 0/33]  eta: 0:34:08  loss: 0.0253 (0.0253)  time: 62.0613  data: 60.4764  max mem: 6810
+[15:55:51.352776] val:  [10/33]  eta: 0:02:41  loss: 0.0297 (0.0832)  time: 7.0019  data: 5.4980  max mem: 6810
+[15:56:06.336675] val:  [20/33]  eta: 0:00:56  loss: 0.0397 (0.4152)  time: 1.4971  data: 0.0001  max mem: 6810
+[15:56:21.326179] val:  [30/33]  eta: 0:00:10  loss: 0.4146 (0.6126)  time: 1.4986  data: 0.0000  max mem: 6810
+[15:56:22.934516] val:  [32/33]  eta: 0:00:03  loss: 0.4401 (0.7226)  time: 1.4291  data: 0.0000  max mem: 6810
+[15:56:24.638584] val: Total time: 0:01:50 (3.3426 s / it)
+[15:56:24.665072] val loss: 0.7226246920498934
+[15:56:24.665589] Accuracy: 0.7490, F1 Score: 0.3325, ROC AUC: 0.8965, Hamming Loss: 0.1004,
+ Jaccard Score: 0.2947, Precision: 0.2996, Recall: 0.3918,
+ Average Precision: 0.5286, Kappa: 0.5937, Score: 0.6076
+[15:56:25.675740] Best epoch = 7, Best score = 0.6076
+
+
+---7 EPOKA---
+[16:23:24.727503] val:  [ 0/33]  eta: 0:38:46  loss: 0.0149 (0.0149)  time: 70.5087  data: 68.7031  max mem: 6810
+[16:23:41.840767] val:  [10/33]  eta: 0:03:03  loss: 0.0202 (0.0652)  time: 7.9656  data: 6.2457  max mem: 6810
+[16:23:58.963020] val:  [20/33]  eta: 0:01:04  loss: 0.0265 (0.3649)  time: 1.7117  data: 0.0000  max mem: 6810
+[16:24:14.106698] val:  [30/33]  eta: 0:00:11  loss: 0.4810 (0.5686)  time: 1.6132  data: 0.0001  max mem: 6810
+[16:24:15.718364] val:  [32/33]  eta: 0:00:03  loss: 0.5389 (0.6700)  time: 1.5235  data: 0.0001  max mem: 6810
+[16:24:17.546135] val: Total time: 0:02:03 (3.7372 s / it)
+[16:24:17.620040] val loss: 0.6699819926059607
+[16:24:17.621566] Accuracy: 0.7529, F1 Score: 0.3413, ROC AUC: 0.9131, Hamming Loss: 0.0988,
+ Jaccard Score: 0.2996, Precision: 0.4000, Recall: 0.3964,
+ Average Precision: 0.5735, Kappa: 0.5993, Score: 0.6179
+[16:24:18.593656] Best epoch = 8, Best score = 0.6179
+
+
+---8 EPOKA---
+[16:50:35.065307] val:  [ 0/33]  eta: 0:34:31  loss: 0.0157 (0.0157)  time: 62.7812  data: 61.2224  max mem: 6810
+[16:50:50.161685] val:  [10/33]  eta: 0:02:42  loss: 0.0179 (0.0585)  time: 7.0796  data: 5.5658  max mem: 6810
+[16:51:05.284967] val:  [20/33]  eta: 0:00:57  loss: 0.0242 (0.3695)  time: 1.5109  data: 0.0001  max mem: 6810
+[16:51:20.423625] val:  [30/33]  eta: 0:00:10  loss: 0.5020 (0.5387)  time: 1.5130  data: 0.0001  max mem: 6810
+[16:51:22.042739] val:  [32/33]  eta: 0:00:03  loss: 0.5250 (0.6210)  time: 1.4434  data: 0.0001  max mem: 6810
+[16:51:23.766876] val: Total time: 0:01:51 (3.3783 s / it)
+[16:51:23.792477] val loss: 0.6210091764276678
+[16:51:23.793512] Accuracy: 0.7626, F1 Score: 0.3806, ROC AUC: 0.9174, Hamming Loss: 0.0949,
+ Jaccard Score: 0.3238, Precision: 0.4307, Recall: 0.4180,
+ Average Precision: 0.5740, Kappa: 0.6172, Score: 0.6384
+[16:51:24.840181] Best epoch = 9, Best score = 0.6384
+
+
+---9 EPOKA---
+[17:17:15.598102] val:  [ 0/33]  eta: 0:34:29  loss: 0.0107 (0.0107)  time: 62.7154  data: 61.1320  max mem: 6810
+[17:17:30.742478] val:  [10/33]  eta: 0:02:42  loss: 0.0144 (0.0448)  time: 7.0781  data: 5.5576  max mem: 6810
+[17:17:45.978270] val:  [20/33]  eta: 0:00:57  loss: 0.0185 (0.3321)  time: 1.5190  data: 0.0001  max mem: 6810
+[17:18:01.057773] val:  [30/33]  eta: 0:00:10  loss: 0.4178 (0.5650)  time: 1.5157  data: 0.0001  max mem: 6810
+[17:18:02.672319] val:  [32/33]  eta: 0:00:03  loss: 0.4373 (0.6696)  time: 1.4464  data: 0.0001  max mem: 6810
+[17:18:04.605941] val: Total time: 0:01:51 (3.3856 s / it)
+[17:18:04.628955] val loss: 0.6696019606156782
+[17:18:04.629959] Accuracy: 0.7510, F1 Score: 0.3405, ROC AUC: 0.9137, Hamming Loss: 0.0996,
+ Jaccard Score: 0.2984, Precision: 0.3660, Recall: 0.3950,
+ Average Precision: 0.5720, Kappa: 0.5961, Score: 0.6168
+[17:18:04.631105] Best epoch = 9, Best score = 0.6384
+
+
+--- 10 EPOKA ---
+[17:17:15.598102] val:  [ 0/33]  eta: 0:34:29  loss: 0.0107 (0.0107)  time: 62.7154  data: 61.1320  max mem: 6810
+[17:17:30.742478] val:  [10/33]  eta: 0:02:42  loss: 0.0144 (0.0448)  time: 7.0781  data: 5.5576  max mem: 6810
+[17:17:45.978270] val:  [20/33]  eta: 0:00:57  loss: 0.0185 (0.3321)  time: 1.5190  data: 0.0001  max mem: 6810
+[17:18:01.057773] val:  [30/33]  eta: 0:00:10  loss: 0.4178 (0.5650)  time: 1.5157  data: 0.0001  max mem: 6810
+[17:18:02.672319] val:  [32/33]  eta: 0:00:03  loss: 0.4373 (0.6696)  time: 1.4464  data: 0.0001  max mem: 6810
+[17:18:04.605941] val: Total time: 0:01:51 (3.3856 s / it)
+[17:18:04.628955] val loss: 0.6696019606156782
+[17:18:04.629959] Accuracy: 0.7510, F1 Score: 0.3405, ROC AUC: 0.9137, Hamming Loss: 0.0996,
+ Jaccard Score: 0.2984, Precision: 0.3660, Recall: 0.3950,
+ Average Precision: 0.5720, Kappa: 0.5961, Score: 0.6168
+[17:18:04.631105] Best epoch = 9, Best score = 0.6384
+
+
+--- 11 EPOKA---
+[17:19:17.317394] Epoch: [11]  [  0/128]  eta: 2:35:03  lr: 0.000305  loss: 1.2451 (1.2451)  time: 72.6831  data: 61.4899  max mem: 6810
+[17:23:00.169403] Epoch: [11]  [ 20/128]  eta: 0:25:19  lr: 0.000302  loss: 0.7674 (0.7872)  time: 11.1426  data: 0.0003  max mem: 6810
+[17:26:43.073831] Epoch: [11]  [ 40/128]  eta: 0:18:32  lr: 0.000299  loss: 0.7971 (0.8072)  time: 11.1452  data: 0.0003  max mem: 6810
+[17:30:26.024560] Epoch: [11]  [ 60/128]  eta: 0:13:46  lr: 0.000296  loss: 0.6701 (0.7758)  time: 11.1475  data: 0.0003  max mem: 6810
+[17:34:09.016984] Epoch: [11]  [ 80/128]  eta: 0:09:31  lr: 0.000293  loss: 0.7948 (0.7969)  time: 11.1496  data: 0.0002  max mem: 6810
+[17:37:51.930694] Epoch: [11]  [100/128]  eta: 0:05:29  lr: 0.000289  loss: 0.7352 (0.8105)  time: 11.1456  data: 0.0002  max mem: 6810
+[17:41:34.676264] Epoch: [11]  [120/128]  eta: 0:01:33  lr: 0.000285  loss: 0.7873 (0.8154)  time: 11.1373  data: 0.0003  max mem: 6810
+[17:42:52.692653] Epoch: [11]  [127/128]  eta: 0:00:11  lr: 0.000283  loss: 0.7232 (0.8144)  time: 11.1446  data: 0.0002  max mem: 6810
+[17:42:54.534011] Epoch: [11] Total time: 0:24:49 (11.6398 s / it)
+[17:42:54.534011] Averaged stats: lr: 0.000283  loss: 0.7232 (0.8144)
+
+
+--- 12 EPOKA ---
+[17:43:57.254318] val:  [ 0/33]  eta: 0:34:29  loss: 0.0208 (0.0208)  time: 62.7177  data: 61.1428  max mem: 6810
+[17:44:12.303667] val:  [10/33]  eta: 0:02:42  loss: 0.0208 (0.0473)  time: 7.0696  data: 5.5586  max mem: 6810
+[17:44:27.414960] val:  [20/33]  eta: 0:00:57  loss: 0.0248 (0.3204)  time: 1.5080  data: 0.0001  max mem: 6810
+[17:44:42.532038] val:  [30/33]  eta: 0:00:10  loss: 0.3627 (0.5180)  time: 1.5114  data: 0.0001  max mem: 6810
+[17:44:44.142314] val:  [32/33]  eta: 0:00:03  loss: 0.3922 (0.6058)  time: 1.4373  data: 0.0001  max mem: 6810
+[17:44:45.843497] val: Total time: 0:01:51 (3.3729 s / it)
+[17:44:45.865090] val loss: 0.6058192867221255
+[17:44:45.865090] Accuracy: 0.7704, F1 Score: 0.4128, ROC AUC: 0.9228, Hamming Loss: 0.0918,
+ Jaccard Score: 0.3469, Precision: 0.4337, Recall: 0.4407,
+ Average Precision: 0.5994, Kappa: 0.6322, Score: 0.6559
+[17:44:46.905245] Best epoch = 11, Best score = 0.6559
+
+
